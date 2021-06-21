@@ -51,11 +51,11 @@ bueno, deberemos iniciar un nuevo PlayGround (Ctrl + o + w) y escribir el siguie
 ```smalltalk
 |dt cd|
 cd :=MySQLDriverSpec new 
-				database:'XXXXXXXXXXXX';
-				host:'XXXXXXXXXXXXXXX';
-				user:'XXXXXXXXXXX';
-				password:'XXXXXXX';
-				port:7070.
+	database:'XXXXXXXXXXXX';
+	host:'XXXXXXXXXXXXXXX';
+	user:'XXXXXXXXXXX';
+	password:'XXXXXXX';
+	port:7070.
 				
 dt  :=MySQLDriver new.
 dt  connect:cd.
@@ -83,11 +83,11 @@ database := MySQLDriver new connect:credentials.
 ```smalltalk
 initializeCredentials
 credentials:= MySQLDriverSpec new 
-				database:'XXXXXXXXXXXX';
-				host:'XXXXXXXXXXXXXXX';
-				user:'XXXXXXXXXXX';
-				password:'XXXXXXX';
-				port:7070.
+		database:'XXXXXXXXXXXX';
+		host:'XXXXXXXXXXXXXXX';
+		user:'XXXXXXXXXXX';
+		password:'XXXXXXX';
+		port:7070.
 
 ```
 
