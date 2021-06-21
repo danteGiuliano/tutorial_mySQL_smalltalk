@@ -42,7 +42,7 @@ Una vez que tenemos estos datos solamente basta con generar el pequeño script p
 Este package se basa en una conexion de dos pasos utilizando dos clases en particular.
 MySQLDriverSpec y MySQLDriver
 
- la clase MySQLDriver es la encargada de generar el objeto que se comunica con la base de datos y ejecutar los querys necesarios  en tanto MySQLDriverSpec  actua como un dependiente o colaborador interno de dicha clase . puesto que ella es la encargada de mantener los **Credenciales** 
+ la clase MySQLDriver es la encargada de generar el objeto que se comunica con la base de datos y ejecutar los querys necesarias  en tanto MySQLDriverSpec  actua como un dependiente o colaborador interno de dicha clase . puesto que ella es la encargada de mantener los **Credenciales** 
 
 ### Como seria el script correspondiente? 
 
