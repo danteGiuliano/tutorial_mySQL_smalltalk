@@ -4,7 +4,7 @@
 
 Acerca de mi.
 
->Hola, que tal. mi nombre es Dante R. Giuliano, soy un novato programador de 23 años de Argentina y adoro Smalltalk con Pharo, eh decidido hacer este tutorial para la >comunidad en español, todos sabemos lo dificil que es encontrar informacion de calidad cuando uno no es un programador avanzado. personalmente eh sufrido mucho eso, >y lo sigo padeciendo. Pienso que lo mejor de la programacion y de las personas es el compartir conocimiento, por que es lo unico que nos hace mejores personas en el  >dia a dia.... me hubiera encantado encontrar este tipo de tutoriales en mi camino de aprendizaje seguramente  hubiera llegado al mismo punto de ahora, pero sin >tantos tropiezos... Asi que bueno, espero este tutorial te sea de utilidad :smile: 
+>Hola, que tal. mi nombre es Dante R. Giuliano, soy un novato programador de 23 años de Argentina y adoro Smalltalk con Pharo, eh decidido hacer este tutorial para la comunidad en español, todos sabemos lo dificil que es encontrar informacion de calidad cuando uno no es un programador avanzado. personalmente eh sufrido mucho eso, y lo sigo padeciendo. Pienso que lo mejor de la programacion y de las personas es el compartir conocimiento, por que es lo unico que nos hace mejores personas en el  dia a dia.... me hubiera encantado encontrar este tipo de tutoriales en mi camino de aprendizaje seguramente  hubiera llegado al mismo punto de ahora, pero sin tantos tropiezos... Asi que bueno, espero este tutorial te sea de utilidad :smile: 
 
 
 ## Entorno de trabajo.
