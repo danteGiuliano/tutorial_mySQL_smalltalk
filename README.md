@@ -14,7 +14,7 @@ este es un repositorio de github donde se encuentran los drivers oficiales para 
 
 ## Instalar MySQL en Pharo 
 
-Lo que debemos hacer una vez iniciado Pharo  es abrir un playground en Pharo (Ctrl + o + w) y ejecutar el siguiente script moticello.
+Lo que debemos hacer una vez iniciado Pharo  es abrir un playground en Pharo (Ctrl + o + w) y ejecutar el siguiente script Metacello.
 
 ```smalltalk
 Metacello new
