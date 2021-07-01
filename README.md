@@ -76,7 +76,8 @@ Estas recomendaciones las hago desde mis ojos de novato en programacion, si no s
 ```smalltalk
 runDataBase
 self initializeCredentials.
-database := MySQLDriver new connect:credentials.
+database := MySQLDriver new.
+database connect:credentials.
 
 ```
 
